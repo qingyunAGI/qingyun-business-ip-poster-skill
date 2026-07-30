@@ -60,6 +60,17 @@ The goal is not to recolor one template. The skill changes camera distance, pose
 
 If the user asks to proceed without choosing, the skill defaults to **7 posters**.
 
+## Recommended Codex Settings
+
+For the current Codex experience, the recommended setup is:
+
+1. Select **ChatGPT Chat**.
+2. Prefer **GPT-5.6 · High** for the strongest overall result.
+3. **GPT-5.5 · High** also performs well.
+4. When the workflow reaches image production, select **Generate images**.
+
+These are quality recommendations, not hard installation requirements. Model and interface labels may change across Codex versions.
+
 ## Materials to Prepare
 
 ### Required
