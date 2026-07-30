@@ -22,6 +22,17 @@
 </p>
 
 <p align="center">
+  <strong>⭐ 如果这个工作流对你的创作有帮助，请点击仓库右上角的 Star。</strong><br>
+  每一颗 Star 都会帮助更多创作者发现、使用并共同完善这套开放工作流。
+</p>
+
+<p align="center">
+  <a href="https://github.com/qingyunAGI/qingyun-business-ip-poster-skill">
+    <img alt="给项目点 Star" src="https://img.shields.io/badge/%E2%AD%90-%E7%BB%99%E9%A1%B9%E7%9B%AE%E7%82%B9_Star-FFD54F?style=for-the-badge&logo=github&logoColor=111111">
+  </a>
+</p>
+
+<p align="center">
   <a href="README.md">English</a> ·
   <a href="#安装方法">安装方法</a> ·
   <a href="#5-张用户认可效果图">效果展示</a> ·
