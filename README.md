@@ -22,6 +22,17 @@
 </p>
 
 <p align="center">
+  <strong>⭐ If this workflow helps your creative practice, please click Star in the upper-right corner.</strong><br>
+  Every Star helps more creators discover and improve this open workflow.
+</p>
+
+<p align="center">
+  <a href="https://github.com/qingyunAGI/qingyun-business-ip-poster-skill">
+    <img alt="Star this repository" src="https://img.shields.io/badge/%E2%AD%90-Star_this_repository-FFD54F?style=for-the-badge&logo=github&logoColor=111111">
+  </a>
+</p>
+
+<p align="center">
   <a href="README.zh-CN.md">简体中文</a> ·
   <a href="#installation">Installation</a> ·
   <a href="#showcase--five-user-approved-posters">Showcase</a> ·
