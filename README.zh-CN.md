@@ -4,10 +4,27 @@
   <strong>把 3—5 张人物参考照与一段自然语言需求，转化为 5 / 7 / 10 张真正有差异的高级商务个人 IP 海报。</strong>
 </p>
 
+## 5 张用户认可效果图
+
+<p align="center">
+  <strong>3 张人物身份参考 + 1 段自然语言文案 → 10 个方向探索 → 5 张认可版本 → 1 个可复用 Skill</strong>
+</p>
+
+<p align="center">
+  <img src="showcase/01-black-neon-green.png" width="31%" alt="黑底荧光绿峰会型海报">
+  <img src="showcase/02-ivory-editorial.png" width="31%" alt="暖象牙白企业顾问型海报">
+  <img src="showcase/03-graphite-thought-leader.png" width="31%" alt="石墨灰思想领袖型海报">
+</p>
+
+<p align="center">
+  <img src="showcase/04-high-contrast-closeup.png" width="46%" alt="极黑超近景强识别海报">
+  <img src="showcase/05-black-gold-authority.png" width="46%" alt="黑金权威背书型海报">
+</p>
+
 <p align="center">
   <a href="README.md">English</a> ·
   <a href="#安装方法">安装方法</a> ·
-  <a href="#效果展示">效果展示</a> ·
+  <a href="#5-张用户认可效果图">效果展示</a> ·
   <a href="https://github.com/qingyunAGI/qingyun-business-ip-poster-skill/releases/latest">最新版本</a>
 </p>
 
@@ -21,21 +38,6 @@
 `qingyun-business-ip-poster-skill` 是一个面向 Codex 的高级商务个人 IP 海报工作流。它会把零散文案与多张人物参考照整理成结构化设计任务，批量生成竖版 3:4 方案，并重点控制人物一致性、标题可读性、事实准确性与版本差异。
 
 它不是给同一张模板换 10 次颜色，而是主动变化镜头、姿态、人物位置、背景场景、标题结构、信息分栏、强调色和视觉叙事，再逐张完成质量检查。
-
-## 效果展示
-
-同一真实项目中得到用户认可的 5 个方向：
-
-<p align="center">
-  <img src="showcase/01-black-neon-green.png" width="31%" alt="黑底荧光绿峰会型海报">
-  <img src="showcase/02-ivory-editorial.png" width="31%" alt="暖象牙白企业顾问型海报">
-  <img src="showcase/03-graphite-thought-leader.png" width="31%" alt="石墨灰思想领袖型海报">
-</p>
-
-<p align="center">
-  <img src="showcase/04-high-contrast-closeup.png" width="38%" alt="极黑超近景强识别海报">
-  <img src="showcase/05-black-gold-authority.png" width="38%" alt="黑金权威背书型海报">
-</p>
 
 ## 它能做什么
 

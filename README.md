@@ -4,10 +4,27 @@
   <strong>Turn 3–5 portrait references and a natural-language brief into 5, 7, or 10 distinct premium business IP posters.</strong>
 </p>
 
+## Showcase · Five User-Approved Posters
+
+<p align="center">
+  <strong>3 identity references + 1 natural-language brief → 10 directions → 5 approved posters → 1 reusable Skill</strong>
+</p>
+
+<p align="center">
+  <img src="showcase/01-black-neon-green.png" width="31%" alt="Black and neon green summit poster">
+  <img src="showcase/02-ivory-editorial.png" width="31%" alt="Ivory editorial consultant poster">
+  <img src="showcase/03-graphite-thought-leader.png" width="31%" alt="Graphite thought leader poster">
+</p>
+
+<p align="center">
+  <img src="showcase/04-high-contrast-closeup.png" width="46%" alt="High-contrast close-up poster">
+  <img src="showcase/05-black-gold-authority.png" width="46%" alt="Black and champagne-gold authority poster">
+</p>
+
 <p align="center">
   <a href="README.zh-CN.md">简体中文</a> ·
   <a href="#installation">Installation</a> ·
-  <a href="#showcase">Showcase</a> ·
+  <a href="#showcase--five-user-approved-posters">Showcase</a> ·
   <a href="https://github.com/qingyunAGI/qingyun-business-ip-poster-skill/releases/latest">Latest Release</a>
 </p>
 
@@ -21,21 +38,6 @@
 `qingyun-business-ip-poster-skill` is a Codex skill for high-end personal-brand and expert posters. It converts loose copy and portrait references into a controlled batch of vertical 3:4 concepts with strong identity fidelity, readable headlines, factual discipline, and genuine visual variety.
 
 The goal is not to recolor one template. The skill changes camera distance, pose, subject placement, scene, typography, information layout, accent color, and narrative emphasis across the batch—then checks every poster before delivery.
-
-## Showcase
-
-Five user-approved directions from one real production set:
-
-<p align="center">
-  <img src="showcase/01-black-neon-green.png" width="31%" alt="Black and neon green summit poster">
-  <img src="showcase/02-ivory-editorial.png" width="31%" alt="Ivory editorial consultant poster">
-  <img src="showcase/03-graphite-thought-leader.png" width="31%" alt="Graphite thought leader poster">
-</p>
-
-<p align="center">
-  <img src="showcase/04-high-contrast-closeup.png" width="38%" alt="High-contrast close-up poster">
-  <img src="showcase/05-black-gold-authority.png" width="38%" alt="Black and champagne-gold authority poster">
-</p>
 
 ## What It Does
 
@@ -223,4 +225,3 @@ GitHub: [@qingyunAGI](https://github.com/qingyunAGI)
 ---
 
 This repository publishes version **1.0.0** of the skill and its five approved showcase images. No license file is included; please contact the author before redistribution or commercial repackaging.
-
